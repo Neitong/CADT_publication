@@ -2,8 +2,9 @@
 using namespace std;
 struct Node
 {
-    char data;
+    int data;
     Node* next;
 };
 
 typedef Node *nodePtr;
+
